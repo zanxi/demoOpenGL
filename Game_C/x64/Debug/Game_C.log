@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(160,50): warning C4305: инициализация: усечение из "double" в "const float"
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(130,1): warning C4947: OpenTK::Graphics::OpenGL::GL::Begin: помечен как устаревший
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(130,1): message : Сообщение: "Use PrimitiveType overload instead"
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(194,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(218,1): warning C4947: OpenTK::Graphics::OpenGL::GL::Begin: помечен как устаревший
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(218,1): message : Сообщение: "Use PrimitiveType overload instead"
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(239,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\_V2020_\_src__\Game_C\Game_C\MyForm.h(240,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Game_C.vcxproj -> D:\_V2020_\_src__\Game_C\x64\Debug\Game_C.exe
